@@ -1,0 +1,746 @@
+Nombre,Posición,Duración,Alineación,Evento,Jugada,Resultado
+Acción de ataque (39),1122600,13600,Jugador_10 (ed);Jugador_5 (pi);Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld),Acción de ataque,Jugada_18,Pérdida
+Acción de ataque (21),1284640,13640,Jugador_10 (ed);Jugador_13 (ei);Jugador_9 (pi);Jugador_1 (ld);Jugador_3 (c);Jugador_7 (li),Acción de ataque,Jugada_69,Nada
+Acción de ataque (43),5159640,11280,Jugador_10 (ed);Jugador_2 (ld);Jugador_9 (pi);Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_6,Gol
+Acción de ataque (36),4663120,13600,Jugador_10 (ed);Jugador_2 (ld);Jugador_3 (c);Jugador_1 (li);Jugador_9 (pi),Acción de ataque,Jugada_30,Nada
+Acción de ataque (37),4681320,4720,Jugador_10 (ed);Jugador_2 (ld);Jugador_3 (c);Jugador_1 (li);Jugador_9 (pi),Acción de ataque,Jugada_20,Gol
+Acción de ataque (41),1289120,11320,Jugador_10 (ed);Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (58),1167400,7360,Jugador_10 (ed);Jugador_1 (ld);Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_20,Nada
+Acción de ataque (55),5422640,6800,Jugador_10 (ed);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (li),Acción de ataque,Jugada_27,Gol
+Acción de ataque (6),448080,9360,Jugador_10 (ed);Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_52,Pérdida
+Acción de ataque (40),1172680,10200,Jugador_10 (ed);Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_21,Pérdida
+Acción de ataque (11),797320,12000,Jugador_10 (ed);Jugador_3 (c);Jugador_16 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (5),674160,5480,Jugador_5 (pi);Jugador_4 (ed);Jugador_13 (c);Jugador_2 (ld);Jugador_7 (li),Acción de ataque,Jugada_65,Pérdida
+Acción de ataque (1),462560,12960,Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_13,Nada
+Acción de ataque (6),712160,6000,Jugador_5 (pi);Jugador_13 (c);Jugador_2 (ld);Jugador_7 (li),Acción de ataque,Jugada_60,Pérdida
+Acción de ataque (3),606960,11360,Jugador_5 (pi);Jugador_13 (c);Jugador_2 (ld);Jugador_7 (li),Acción de ataque,Jugada_22,Pérdida
+Acción de ataque (30),3843720,14400,Jugador_5 (pi);Jugador_14 (ld);Jugador_10 (ed);Jugador_1 (li);Jugador_3 (c),Acción de ataque,Jugada_18,Gol
+Acción de ataque (2),484720,6080,Jugador_5 (pi);Jugador_14 (ld);Jugador_13 (c);Jugador_7 (li),Acción de ataque,Jugada_40,Nada
+Acción de ataque (29),3775280,11000,Jugador_5 (pi);Jugador_14 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_18,Pérdida
+Acción de ataque (7),788840,8880,Jugador_5 (pi);Jugador_2 (ld);Jugador_13 (c);Jugador_7 (li),Acción de ataque,Jugada_5,Nada
+Acción de ataque (11),979360,15600,Jugador_5 (pi);Jugador_7 (li);Jugador_3 (c);Jugador_14 (ld),Acción de ataque,Jugada_69,Gol
+Acción de ataque (10),858720,9600,Jugador_5 (pi);Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (9),838720,14800,Jugador_5 (pi);Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld),Acción de ataque,Jugada_23,Nada
+Acción de ataque (15),1314320,16640,Jugador_5 (pi);Jugador_1 (li);Jugador_2 (ld);Jugador_13 (c);Jugador_6 (ei),Acción de ataque,Jugada_19,Nada
+Acción de ataque (26),2746400,9360,Jugador_5 (pi);Jugador_1 (li),Acción de ataque,Jugada_38,Gol
+Acción de ataque (26),304280,6000,Jugador_5 (pi);Jugador_1 (c),Acción de ataque,Jugada_38,Nada
+Acción de ataque (31),3978520,13600,Jugador_5 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_10 (ed);Jugador_1 (li),Acción de ataque,Jugada_18,Pérdida
+Acción de ataque (28),3641360,6960,Jugador_5 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (32),4066080,16800,Jugador_5 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_21,Nada
+Acción de ataque (27),3587640,17200,Jugador_5 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_69,Nada
+Acción de ataque (33),4119280,12520,Jugador_5 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_30,Gol
+Acción de ataque (53),2099920,5960,Jugador_4 (ed);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (40),3393640,13840,Jugador_4 (ed);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_29,Nada
+Acción de ataque (17),1365600,13440,Jugador_4 (ed);Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_73,Pérdida
+Acción de ataque (16),1345520,13880,Jugador_4 (ed);Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_43,Nada
+Acción de ataque (38),1117520,16000,Jugador_4 (ed);Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_30,Gol
+Acción de ataque (9),709680,15240,Jugador_4 (ed);Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_21,Gol
+Acción de ataque (37),1740320,9160,Jugador_4 (ed),Acción de ataque,Jugada_78,Gol
+Acción de ataque (42),5078520,12160,Jugador_13 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_3 (c),Acción de ataque,Jugada_70,Gol
+Acción de ataque (36),969840,13320,Jugador_13 (ei);Jugador_9 (pi);Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_6,Gol
+Acción de ataque (17),1235800,8440,Jugador_13 (ei);Jugador_7 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_73,Gol
+Acción de ataque (34),1983560,9240,Jugador_13 (ei);Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld);Jugador_9 (pi),Acción de ataque,Jugada_27,Nada
+Acción de ataque (14),1131960,12760,Jugador_13 (ei);Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld);Jugador_9 (pi),Acción de ataque,Jugada_43,Gol
+Acción de ataque (34),936600,10960,Jugador_13 (ei);Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_69,Nada
+Acción de ataque (52),4914840,7760,Jugador_13 (ei);Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Gol
+Acción de ataque (53),5007360,15240,Jugador_13 (ei);Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_12,Gol
+Acción de ataque (37),1065280,9560,Jugador_13 (ei);Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (10),856800,13560,Jugador_13 (ei);Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_65,Gol
+Acción de ataque (26),1384280,15600,Jugador_13 (ei);Jugador_3 (c);Jugador_7 (li);Jugador_1 (ld);Jugador_9 (pi),Acción de ataque,Jugada_65,Gol
+Acción de ataque (33),1904080,17200,Jugador_13 (ei);Jugador_3 (c);Jugador_1 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_7,Pérdida
+Acción de ataque (18),1353240,10000,Jugador_13 (ei);Jugador_16 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_13,Nada
+Acción de ataque (9),819720,3760,Jugador_13 (c);Jugador_5 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (12),1331800,14760,Jugador_13 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_7 (li),Acción de ataque,Jugada_31,Gol
+Acción de ataque (63),1401000,13000,Jugador_13 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_16 (li);Jugador_15 (ei),Acción de ataque,Jugada_60,Pérdida
+Acción de ataque (16),1730600,7120,Jugador_13 (c);Jugador_14 (ld);Jugador_16 (li);Jugador_12 (pi);Jugador_10 (ed),Acción de ataque,Jugada_6,Gol
+Acción de ataque (15),1666960,8400,Jugador_13 (c);Jugador_14 (ld);Jugador_16 (li);Jugador_12 (pi),Acción de ataque,Jugada_2,Pérdida
+Acción de ataque (14),1472520,10400,Jugador_13 (c);Jugador_14 (ld);Jugador_16 (li);Jugador_12 (pi),Acción de ataque,Jugada_36,Gol
+Acción de ataque (60),1432840,9200,Jugador_13 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_7 (li);Jugador_4 (ed),Acción de ataque,Jugada_66,Pérdida
+Acción de ataque (61),1529960,13600,Jugador_13 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_7 (li);Jugador_4 (ed),Acción de ataque,Jugada_2,Gol
+Acción de ataque (58),1300960,5600,Jugador_13 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_7 (li),Acción de ataque,Jugada_2,Nada
+Acción de ataque (59),1332960,8400,Jugador_13 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_7 (li),Acción de ataque,Jugada_66,Gol
+Acción de ataque (57),1122400,10000,Jugador_13 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_16 (li),Acción de ataque,Jugada_41,Pérdida
+Acción de ataque (56),1102400,16000,Jugador_13 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_16 (li),Acción de ataque,Jugada_22,Nada
+Acción de ataque (54),1021800,10800,Jugador_13 (c);Jugador_2 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_41,Pérdida
+Acción de ataque (55),1061600,11200,Jugador_13 (c);Jugador_2 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_22,Nada
+Acción de ataque (37),1832360,9200,Jugador_13 (c);Jugador_12 (pi);Jugador_14 (ld);Jugador_8 (li),Acción de ataque,Jugada_17,Pérdida
+Acción de ataque (38),1894040,9240,Jugador_13 (c);Jugador_12 (pi);Jugador_14 (ld);Jugador_8 (li),Acción de ataque,Jugada_39,Nada
+Acción de ataque (39),1908520,12800,Jugador_13 (c);Jugador_12 (pi);Jugador_8 (li),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (36),1762520,8800,Jugador_13 (c);Jugador_12 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_1,Gol
+Acción de ataque (35),1684560,10000,Jugador_13 (c);Jugador_12 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_17,Gol
+Acción de ataque (34),1442880,7600,Jugador_13 (c);Jugador_12 (pi),Acción de ataque,Jugada_38,Gol
+Acción de ataque (73),1707360,15640,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_10,Pérdida
+Acción de ataque (5),1225960,12320,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_41,Pérdida
+Acción de ataque (9),1583520,13680,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_69,Nada
+Acción de ataque (8),1499760,10720,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (10),1603280,11280,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (11),1650080,12080,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_44,Pérdida
+Acción de ataque (2),967880,7040,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_40,Pérdida
+Acción de ataque (3),1082040,13680,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_22,Pérdida
+Acción de ataque (1),950920,13760,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_52,Nada
+Acción de ataque (12),1693120,9920,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_2,Nada
+Acción de ataque (4),1213240,9360,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_14,Nada
+Acción de ataque (6),1417440,10320,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_52,Gol
+Acción de ataque (7),1456880,11040,Jugador_13 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (16),1681240,10800,Jugador_13 (c);Jugador_16 (li);Jugador_9 (pi);Jugador_2 (ld);Jugador_15 (ei),Acción de ataque,Jugada_6,Gol
+Acción de ataque (14),1411240,13240,Jugador_13 (c);Jugador_16 (li);Jugador_9 (pi);Jugador_2 (ld);Jugador_15 (ei),Acción de ataque,Jugada_66,Gol
+Acción de ataque (15),1584520,7400,Jugador_13 (c);Jugador_16 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_2,Pérdida
+Acción de ataque (11),1550840,4000,Jugador_14 (ld);Jugador_10 (ed),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (51),5222680,5560,Jugador_14 (ld);Jugador_5 (pi);Jugador_7 (li);Jugador_3 (c),Acción de ataque,Jugada_40,Nada
+Acción de ataque (52),5243520,10000,Jugador_14 (ld);Jugador_5 (pi);Jugador_7 (li);Jugador_3 (c),Acción de ataque,Jugada_40,Nada
+Acción de ataque (53),5256680,5200,Jugador_14 (ld);Jugador_5 (pi);Jugador_7 (li);Jugador_3 (c),Acción de ataque,Jugada_20,Gol
+Acción de ataque (35),4350640,9200,Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (li);Jugador_3 (c),Acción de ataque,Jugada_45,Gol
+Acción de ataque (44),4855200,6480,Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (c);Jugador_10 (ed);Jugador_13 (li),Acción de ataque,Jugada_41,Nada
+Acción de ataque (45),4865200,12400,Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (c);Jugador_10 (ed);Jugador_13 (li),Acción de ataque,Jugada_41,Nada
+Acción de ataque (46),4878400,12400,Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (c);Jugador_10 (ed);Jugador_15 (ei);Jugador_13 (li),Acción de ataque,Jugada_73,Nada
+Acción de ataque (4),280400,9440,Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (c);Jugador_7 (li),Acción de ataque,Jugada_1,Nada
+Acción de ataque (66),4232280,11000,Jugador_14 (ld);Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li);Jugador_10 (ed),Acción de ataque,Jugada_3,Gol
+Acción de ataque (79),4331360,9000,Jugador_14 (ld);Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li);Jugador_15 (ei),Acción de ataque,Jugada_19,Gol
+Acción de ataque (36),4576880,13880,Jugador_14 (ld);Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li),Acción de ataque,Jugada_13,Pérdida
+Acción de ataque (34),4486000,6800,Jugador_14 (ld);Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li),Acción de ataque,Jugada_42,Pérdida
+Acción de ataque (35),4560280,12320,Jugador_14 (ld);Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li),Acción de ataque,Jugada_26,Nada
+Acción de ataque (37),4718160,11200,Jugador_14 (ld);Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li),Acción de ataque,Jugada_69,Nada
+Acción de ataque (33),4444040,8000,Jugador_14 (ld);Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li),Acción de ataque,Jugada_11,Gol
+Acción de ataque (43),4820360,9200,Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (52),2073800,7440,Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (21),2232280,16000,Jugador_14 (ld);Jugador_12 (pi);Jugador_13 (c);Jugador_16 (li),Acción de ataque,Jugada_31,Nada
+Acción de ataque (19),2097640,10040,Jugador_14 (ld);Jugador_12 (pi);Jugador_1 (c);Jugador_13 (li),Acción de ataque,Jugada_45,Nada
+Acción de ataque (20),2107280,6800,Jugador_14 (ld);Jugador_12 (pi);Jugador_1 (c);Jugador_13 (li),Acción de ataque,Jugada_66,Gol
+Acción de ataque (17),1789520,9600,Jugador_14 (ld);Jugador_12 (pi);Jugador_16 (li);Jugador_13 (c),Acción de ataque,Jugada_22,Nada
+Acción de ataque (18),1820200,8400,Jugador_14 (ld);Jugador_12 (pi);Jugador_16 (li);Jugador_13 (c),Acción de ataque,Jugada_45,Gol
+Acción de ataque (36),1110960,8520,Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_3 (c);Jugador_13 (ei),Acción de ataque,Jugada_69,Nada
+Acción de ataque (37),1124920,10480,Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_3 (c);Jugador_13 (ei),Acción de ataque,Jugada_73,Nada
+Acción de ataque (38),1139000,8680,Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_3 (c);Jugador_13 (ei),Acción de ataque,Jugada_20,Nada
+Acción de ataque (35),1043760,11880,Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_3 (c),Acción de ataque,Jugada_66,Gol
+Acción de ataque (27),907400,11640,Jugador_14 (ld);Jugador_1 (c);Jugador_5 (pi);Jugador_11 (ed);Jugador_3 (li),Acción de ataque,Jugada_22,Pérdida
+Acción de ataque (29),1088480,12960,Jugador_14 (ld);Jugador_1 (c);Jugador_5 (pi);Jugador_7 (li);Jugador_6 (ei),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (30),1125600,16440,Jugador_14 (ld);Jugador_1 (c);Jugador_5 (pi);Jugador_7 (li);Jugador_6 (ei),Acción de ataque,Jugada_23,Pérdida
+Acción de ataque (32),1209720,15600,Jugador_14 (ld);Jugador_1 (c);Jugador_5 (pi);Jugador_7 (li);Jugador_6 (ei),Acción de ataque,Jugada_41,Gol
+Acción de ataque (28),1035600,7320,Jugador_14 (ld);Jugador_1 (c);Jugador_5 (pi);Jugador_7 (li),Acción de ataque,Jugada_40,Pérdida
+Acción de ataque (31),1178000,13880,Jugador_14 (ld);Jugador_1 (c);Jugador_5 (pi);Jugador_7 (li),Acción de ataque,Jugada_23,Pérdida
+Acción de ataque (34),1380080,18600,Jugador_14 (ld);Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_69,Gol
+Acción de ataque (8),230200,8000,Jugador_14 (ld);Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_6,Nada
+Acción de ataque (1),17240,14800,Jugador_14 (ld);Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_24,Nada
+Acción de ataque (7),209400,10400,Jugador_14 (ld);Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_36,Nada
+Acción de ataque (2),41760,10800,Jugador_14 (ld);Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_13,Gol
+Acción de ataque (33),1330920,6040,Jugador_14 (ld);Jugador_1 (c);Jugador_7 (li);Jugador_6 (ei);Jugador_9 (pi),Acción de ataque,Jugada_27,Gol
+Acción de ataque (47),1732000,15200,Jugador_14 (ld);Jugador_3 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_13 (ei),Acción de ataque,Jugada_19,Gol
+Acción de ataque (46),1673640,12800,Jugador_14 (ld);Jugador_3 (c);Jugador_9 (pi);Jugador_7 (li),Acción de ataque,Jugada_61,Pérdida
+Acción de ataque (45),1652840,14000,Jugador_14 (ld);Jugador_3 (c);Jugador_9 (pi);Jugador_7 (li),Acción de ataque,Jugada_23,Nada
+Acción de ataque (54),5338960,8000,Jugador_14 (ld);Jugador_3 (c);Jugador_9 (pi);Jugador_1 (li);Jugador_13 (ei),Acción de ataque,Jugada_69,Gol
+Acción de ataque (48),1877280,11200,Jugador_14 (ld);Jugador_3 (c);Jugador_9 (pi);Jugador_1 (li),Acción de ataque,Jugada_44,Nada
+Acción de ataque (62),1058720,6000,Jugador_14 (ld);Jugador_16 (li);Jugador_9 (pi);Jugador_15 (ei);Jugador_13 (c),Acción de ataque,Jugada_73,Gol
+Acción de ataque (40),1155920,6480,Jugador_14 (ld),Acción de ataque,Jugada_78,Pérdida
+Acción de ataque (47),1743960,28040,Jugador_14 (ld),Acción de ataque,Jugada_78,Nada
+Acción de ataque (54),2116360,4560,Jugador_14 (ld),Acción de ataque,Jugada_78,Gol
+Acción de ataque (10),258200,6400,Jugador_14 (ld),Acción de ataque,Jugada_78,Gol
+Acción de ataque (90),594480,18000,Jugador_9 (pi);Jugador_10 (ed);Jugador_2 (ld);Jugador_1 (c);Jugador_12 (pi);Jugador_7 (li),Acción de ataque,Jugada_19,Nada
+Acción de ataque (53),971800,12880,Jugador_9 (pi);Jugador_13 (c);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_44,Pérdida
+Acción de ataque (41),1907520,10400,Jugador_9 (pi);Jugador_13 (c);Jugador_2 (ld);Jugador_7 (li);Jugador_6 (ei),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (40),1815920,17600,Jugador_9 (pi);Jugador_13 (c);Jugador_2 (ld);Jugador_7 (li);Jugador_6 (ei),Acción de ataque,Jugada_46,Gol
+Acción de ataque (20),2586800,14080,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_10 (ed);Jugador_1 (li),Acción de ataque,Jugada_20,Nada
+Acción de ataque (24),2863680,12080,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (22),2644160,6800,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_66,Pérdida
+Acción de ataque (19),2562000,21200,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_24,Nada
+Acción de ataque (23),2816960,6160,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_50,Gol
+Acción de ataque (18),2470800,19120,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_44,Gol
+Acción de ataque (26),3027840,6000,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_26,Gol
+Acción de ataque (28),3867400,10720,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_69,Gol
+Acción de ataque (29),4053200,7920,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_46,Gol
+Acción de ataque (16),2390800,15200,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (21),2603600,13600,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_6,Nada
+Acción de ataque (25),2930400,18240,Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_69,Nada
+Acción de ataque (50),5848840,6880,Jugador_9 (pi);Jugador_14 (ld),Acción de ataque,Jugada_38,Nada
+Acción de ataque (87),208040,9000,Jugador_9 (pi);Jugador_12 (pi);Jugador_1 (c);Jugador_10 (ed);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_68,Gol
+Acción de ataque (39),1749480,13200,Jugador_9 (pi);Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_4 (ed),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (38),1732680,14800,Jugador_9 (pi);Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_4 (ed),Acción de ataque,Jugada_69,Nada
+Acción de ataque (36),1582280,8800,Jugador_9 (pi);Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_66,Gol
+Acción de ataque (37),1657480,16800,Jugador_9 (pi);Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_24,Gol
+Acción de ataque (15),1728000,14280,Jugador_9 (pi);Jugador_7 (li);Jugador_3 (c);Jugador_11 (ed);Jugador_1 (ld),Acción de ataque,Jugada_18,Nada
+Acción de ataque (13),1483400,13320,Jugador_9 (pi);Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (16),1749760,13640,Jugador_9 (pi);Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld),Acción de ataque,Jugada_69,Nada
+Acción de ataque (17),1952400,13360,Jugador_9 (pi);Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld),Acción de ataque,Jugada_44,Gol
+Acción de ataque (14),1602400,12360,Jugador_9 (pi);Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld),Acción de ataque,Jugada_44,Gol
+Acción de ataque (48),4482880,5040,Jugador_9 (pi);Jugador_1 (li),Acción de ataque,Jugada_38,Nada
+Acción de ataque (27),3107280,4000,Jugador_9 (pi);Jugador_1 (li),Acción de ataque,Jugada_38,Gol
+Acción de ataque (89),472760,6000,Jugador_9 (pi);Jugador_1 (c);Jugador_10 (ed);Jugador_14 (ld);Jugador_7 (li);Jugador_12 (pi),Acción de ataque,Jugada_64,Pérdida
+Acción de ataque (88),456640,9000,Jugador_9 (pi);Jugador_1 (c);Jugador_10 (ed);Jugador_14 (ld);Jugador_7 (li);Jugador_12 (pi),Acción de ataque,Jugada_64,Nada
+Acción de ataque (34),4543680,5360,Jugador_9 (pi);Jugador_1 (c);Jugador_14 (ld);Jugador_3 (li),Acción de ataque,Jugada_13,Pérdida
+Acción de ataque (84),946920,21000,Jugador_9 (pi);Jugador_1 (c);Jugador_2 (ld);Jugador_7 (li);Jugador_10 (ed),Acción de ataque,Jugada_18,Nada
+Acción de ataque (65),235560,14000,Jugador_9 (pi);Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_10 (ed),Acción de ataque,Jugada_47,Gol
+Acción de ataque (6),663880,22320,Jugador_9 (pi);Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_6 (ei),Acción de ataque,Jugada_21,Nada
+Acción de ataque (5),570360,13920,Jugador_9 (pi);Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld),Acción de ataque,Jugada_67,Pérdida
+Acción de ataque (2),59840,12000,Jugador_9 (pi);Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld),Acción de ataque,Jugada_13,Pérdida
+Acción de ataque (1),37320,14400,Jugador_9 (pi);Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld),Acción de ataque,Jugada_5,Nada
+Acción de ataque (3),140840,12400,Jugador_9 (pi);Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld),Acción de ataque,Jugada_1,Gol
+Acción de ataque (3),244440,8040,Jugador_9 (pi);Jugador_1 (c),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (8),925120,5280,Jugador_9 (pi);Jugador_1 (c),Acción de ataque,Jugada_38,Nada
+Acción de ataque (47),4935400,6000,Jugador_9 (pi);Jugador_1 (c),Acción de ataque,Jugada_38,Nada
+Acción de ataque (10),970800,7600,Jugador_9 (pi);Jugador_1 (c),Acción de ataque,Jugada_38,Gol
+Acción de ataque (38),4733240,7600,Jugador_9 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_56,Gol
+Acción de ataque (39),4841520,3680,Jugador_9 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_42,Gol
+Acción de ataque (51),5860640,5600,Jugador_9 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (1),830160,17600,Jugador_9 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_5,Nada
+Acción de ataque (33),4530960,12000,Jugador_9 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_69,Nada
+Acción de ataque (3),955040,12400,Jugador_9 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_24,Gol
+Acción de ataque (35),4639680,9000,Jugador_9 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_48,Nada
+Acción de ataque (4),1008640,6800,Jugador_9 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_41,Gol
+Acción de ataque (2),854800,8000,Jugador_9 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_65,Gol
+Acción de ataque (22),1674160,18400,Jugador_9 (pi);Jugador_3 (c);Jugador_2 (ld);Jugador_10 (ed);Jugador_1 (li),Acción de ataque,Jugada_69,Gol
+Acción de ataque (21),1603960,10800,Jugador_9 (pi);Jugador_3 (c);Jugador_2 (ld);Jugador_10 (ed);Jugador_1 (li),Acción de ataque,Jugada_21,Gol
+Acción de ataque (23),1884280,16960,Jugador_9 (pi);Jugador_3 (c);Jugador_2 (ld);Jugador_1 (li),Acción de ataque,Jugada_69,Nada
+Acción de ataque (32),4292240,7520,Jugador_9 (pi);Jugador_3 (c);Jugador_2 (ld);Jugador_1 (li),Acción de ataque,Jugada_2,Gol
+Acción de ataque (25),2092880,11480,Jugador_9 (pi);Jugador_3 (c);Jugador_2 (ld);Jugador_1 (li),Acción de ataque,Jugada_42,Gol
+Acción de ataque (30),4225760,10800,Jugador_9 (pi);Jugador_3 (c);Jugador_2 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_65,Nada
+Acción de ataque (31),4242480,8800,Jugador_9 (pi);Jugador_3 (c);Jugador_2 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_65,Gol
+Acción de ataque (76),5263200,19000,Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_15 (ei),Acción de ataque,Jugada_19,Pérdida
+Acción de ataque (75),5263200,10000,Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_15 (ei),Acción de ataque,Jugada_42,Pérdida
+Acción de ataque (77),5644520,13000,Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_15 (ei),Acción de ataque,Jugada_69,Gol
+Acción de ataque (40),5168560,16000,Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld),Acción de ataque,Jugada_58,Pérdida
+Acción de ataque (44),5522800,8800,Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld),Acción de ataque,Jugada_61,Nada
+Acción de ataque (45),5589040,10840,Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld),Acción de ataque,Jugada_69,Gol
+Acción de ataque (42),5342120,6000,Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld),Acción de ataque,Jugada_42,Gol
+Acción de ataque (24),1902440,10000,Jugador_9 (pi);Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_38,Gol
+Acción de ataque (20),1470400,10000,Jugador_9 (pi);Jugador_3 (c);Jugador_16 (li);Jugador_2 (ld),Acción de ataque,Jugada_61,Pérdida
+Acción de ataque (19),1371120,7200,Jugador_9 (pi);Jugador_3 (c),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (34),1463640,7200,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_4 (ed),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (33),1442840,16800,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_4 (ed),Acción de ataque,Jugada_69,Nada
+Acción de ataque (30),1370560,9200,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_6 (ei),Acción de ataque,Jugada_65,Pérdida
+Acción de ataque (23),1069560,10000,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_6 (ei),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (29),1361360,9200,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_6 (ei),Acción de ataque,Jugada_6,Nada
+Acción de ataque (35),1516840,11600,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_6 (ei),Acción de ataque,Jugada_66,Gol
+Acción de ataque (27),1255400,14000,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (25),1180480,15960,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_44,Nada
+Acción de ataque (22),1053960,14400,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_31,Nada
+Acción de ataque (28),1340600,12000,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_22,Nada
+Acción de ataque (32),1428440,10400,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_69,Nada
+Acción de ataque (31),1407240,12400,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_5,Nada
+Acción de ataque (26),1200600,10800,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_2,Gol
+Acción de ataque (24),1135120,12120,Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_22,Gol
+Acción de ataque (4),656640,11160,Jugador_2 (ld);Jugador_13 (c);Jugador_7 (li);Jugador_5 (pi),Acción de ataque,Jugada_40,Nada
+Acción de ataque (41),3411320,7240,Jugador_2 (ld);Jugador_7 (li);Jugador_1 (c);Jugador_9 (pi),Acción de ataque,Jugada_13,Nada
+Acción de ataque (7),693840,14400,Jugador_2 (ld);Jugador_1 (c);Jugador_12 (pi);Jugador_7 (li),Acción de ataque,Jugada_44,Gol
+Acción de ataque (5),1383880,9480,Jugador_2 (ld);Jugador_1 (c);Jugador_7 (li);Jugador_5 (pi),Acción de ataque,Jugada_66,Pérdida
+Acción de ataque (9),1731520,20120,Jugador_2 (ld);Jugador_1 (c);Jugador_7 (li);Jugador_5 (pi),Acción de ataque,Jugada_13,Pérdida
+Acción de ataque (29),1572720,10800,Jugador_2 (ld);Jugador_3 (c);Jugador_1 (li);Jugador_11 (ed);Jugador_9 (pi),Acción de ataque,Jugada_73,Pérdida
+Acción de ataque (12),1117360,11360,Jugador_2 (ld);Jugador_6 (ei);Jugador_7 (li);Jugador_13 (c);Jugador_5 (pi),Acción de ataque,Jugada_65,Gol
+Acción de ataque (38),2129440,16920,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_11 (ed),Acción de ataque,Jugada_18,Nada
+Acción de ataque (41),2265520,10400,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_11 (ed),Acción de ataque,Jugada_11,Gol
+Acción de ataque (35),1955680,10000,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld),Acción de ataque,Jugada_26,Pérdida
+Acción de ataque (37),2032560,18920,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld),Acción de ataque,Jugada_13,Pérdida
+Acción de ataque (30),1463680,14760,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld),Acción de ataque,Jugada_2,Pérdida
+Acción de ataque (33),1716160,12080,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld),Acción de ataque,Jugada_45,Pérdida
+Acción de ataque (36),1991760,16400,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld),Acción de ataque,Jugada_13,Nada
+Acción de ataque (39),2228720,13920,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld),Acción de ataque,Jugada_44,Nada
+Acción de ataque (31),1554880,14320,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld),Acción de ataque,Jugada_49,Gol
+Acción de ataque (29),1261240,9760,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld),Acción de ataque,Jugada_63,Gol
+Acción de ataque (32),1631880,11240,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld),Acción de ataque,Jugada_51,Gol
+Acción de ataque (34),1819600,10840,Jugador_12 (pi);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld),Acción de ataque,Jugada_47,Gol
+Acción de ataque (16),1220640,13200,Jugador_7 (li);Jugador_13 (ei);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Nada
+Acción de ataque (17),1472240,18000,Jugador_7 (li);Jugador_13 (c);Jugador_5 (pi);Jugador_2 (ld),Acción de ataque,Jugada_24,Nada
+Acción de ataque (18),1494280,10600,Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_13,Pérdida
+Acción de ataque (11),1098760,13080,Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_22,Nada
+Acción de ataque (23),1736040,10320,Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_22,Nada
+Acción de ataque (19),1568720,13520,Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_44,Gol
+Acción de ataque (10),901560,12280,Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_24,Gol
+Acción de ataque (20),1567840,13240,Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_22,Gol
+Acción de ataque (8),797560,19640,Jugador_7 (li);Jugador_13 (c);Jugador_2 (ld);Jugador_4 (ed);Jugador_5 (pi),Acción de ataque,Jugada_65,Nada
+Acción de ataque (1),215920,10400,Jugador_7 (li);Jugador_14 (ld);Jugador_4 (ed);Jugador_9 (pi);Jugador_1 (c),Acción de ataque,Jugada_19,Nada
+Acción de ataque (71),971800,10000,Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_10 (ed);Jugador_13 (c),Acción de ataque,Jugada_73,Nada
+Acción de ataque (2),232400,8800,Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (c),Acción de ataque,Jugada_62,Nada
+Acción de ataque (5),300040,10800,Jugador_7 (li);Jugador_14 (ld);Jugador_1 (c);Jugador_9 (pi),Acción de ataque,Jugada_53,Pérdida
+Acción de ataque (74),1672720,16000,Jugador_7 (li);Jugador_9 (pi);Jugador_10 (ed);Jugador_6 (ei);Jugador_2 (ld);Jugador_1 (c),Acción de ataque,Jugada_23,Pérdida
+Acción de ataque (36),1689200,19560,Jugador_7 (li);Jugador_9 (pi);Jugador_13 (c);Jugador_6 (ei);Jugador_4 (ed),Acción de ataque,Jugada_20,Gol
+Acción de ataque (25),3733360,7040,Jugador_7 (li);Jugador_9 (pi);Jugador_14 (ld);Jugador_1 (c),Acción de ataque,Jugada_3,Gol
+Acción de ataque (17),1873760,6720,Jugador_7 (li);Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c),Acción de ataque,Jugada_74,Pérdida
+Acción de ataque (15),1810560,12400,Jugador_7 (li);Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c),Acción de ataque,Jugada_66,Pérdida
+Acción de ataque (14),1784720,9280,Jugador_7 (li);Jugador_9 (pi);Jugador_14 (ld);Jugador_3 (c),Acción de ataque,Jugada_13,Nada
+Acción de ataque (13),1719000,9600,Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld);Jugador_1 (c),Acción de ataque,Jugada_69,Gol
+Acción de ataque (72),2236160,8000,Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld);Jugador_3 (c);Jugador_6 (ei),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (14),2049400,17600,Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld);Jugador_3 (c);Jugador_6 (ei),Acción de ataque,Jugada_6,Gol
+Acción de ataque (15),2191400,15160,Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld);Jugador_3 (c),Acción de ataque,Jugada_31,Nada
+Acción de ataque (21),962320,6520,Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (25),1772320,13840,Jugador_7 (li);Jugador_2 (ld);Jugador_13 (c);Jugador_5 (pi);Jugador_4 (ed),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (22),1673720,10240,Jugador_7 (li);Jugador_2 (ld);Jugador_13 (c);Jugador_5 (pi);Jugador_4 (ed),Acción de ataque,Jugada_18,Gol
+Acción de ataque (24),1756120,10840,Jugador_7 (li);Jugador_2 (ld);Jugador_13 (c);Jugador_5 (pi),Acción de ataque,Jugada_22,Nada
+Acción de ataque (9),864560,18800,Jugador_7 (li);Jugador_1 (c);Jugador_5 (pi);Jugador_14 (ld);Jugador_6 (ei),Acción de ataque,Jugada_10,Pérdida
+Acción de ataque (32),577920,10720,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_4 (ed);Jugador_15 (ei),Acción de ataque,Jugada_64,Gol
+Acción de ataque (29),353360,6520,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_13 (ei);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (8),684560,10480,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_7,Pérdida
+Acción de ataque (28),335880,11600,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_69,Nada
+Acción de ataque (45),1714680,11600,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_69,Nada
+Acción de ataque (30),420880,12640,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_17,Gol
+Acción de ataque (24),33040,11280,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_69,Gol
+Acción de ataque (27),306280,8280,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_53,Pérdida
+Acción de ataque (9),769600,9240,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (1),845440,6800,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_2,Pérdida
+Acción de ataque (34),727280,10560,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_7,Pérdida
+Acción de ataque (31),565120,6720,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_8,Nada
+Acción de ataque (2),883640,10240,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_36,Nada
+Acción de ataque (3),83000,22000,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_40,Nada
+Acción de ataque (6),514160,13040,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Nada
+Acción de ataque (51),2014160,10600,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_66,Gol
+Acción de ataque (33),638280,7520,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (7),530520,6000,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_42,Gol
+Acción de ataque (35),883400,19520,Jugador_7 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (39),1214320,8160,Jugador_7 (li);Jugador_1 (c);Jugador_9 (pi);Jugador_14 (ld),Acción de ataque,Jugada_22,Pérdida
+Acción de ataque (38),3266680,14080,Jugador_7 (li);Jugador_1 (c);Jugador_9 (pi);Jugador_2 (ld);Jugador_4 (ed),Acción de ataque,Jugada_29,Pérdida
+Acción de ataque (39),3362320,6200,Jugador_7 (li);Jugador_1 (c);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_62,Pérdida
+Acción de ataque (2),979680,12320,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi);Jugador_10 (ed),Acción de ataque,Jugada_18,Gol
+Acción de ataque (4),1224320,14840,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi);Jugador_10 (ed),Acción de ataque,Jugada_18,Gol
+Acción de ataque (30),2239520,9680,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_71,Pérdida
+Acción de ataque (29),2035520,8720,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_66,Pérdida
+Acción de ataque (33),2437360,11480,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_31,Nada
+Acción de ataque (27),1952440,6680,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_3,Nada
+Acción de ataque (14),1279720,6560,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_37,Gol
+Acción de ataque (44),1673720,12960,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (35),2955800,8800,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (25),3749200,8880,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_41,Nada
+Acción de ataque (40),1261200,15200,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_5,Pérdida
+Acción de ataque (54),5190480,7600,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_68,Pérdida
+Acción de ataque (42),1365240,12760,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Nada
+Acción de ataque (37),3254280,10320,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Nada
+Acción de ataque (41),1300360,8600,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_2,Gol
+Acción de ataque (34),2483440,14400,Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_44,Gol
+Acción de ataque (17),2314640,10000,Jugador_7 (li);Jugador_3 (c);Jugador_5 (pi);Jugador_2 (ld),Acción de ataque,Jugada_61,Nada
+Acción de ataque (13),1229840,12000,Jugador_7 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_42,Pérdida
+Acción de ataque (12),1220240,10400,Jugador_7 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_11,Nada
+Acción de ataque (15),1318240,10400,Jugador_7 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (14),1299880,13600,Jugador_7 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_44,Nada
+Acción de ataque (4),381000,9600,Jugador_7 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_37,Nada
+Acción de ataque (13),1012360,9920,Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld);Jugador_9 (pi),Acción de ataque,Jugada_72,Pérdida
+Acción de ataque (22),1308560,11200,Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld);Jugador_9 (pi),Acción de ataque,Jugada_23,Pérdida
+Acción de ataque (31),1790560,20800,Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld);Jugador_9 (pi),Acción de ataque,Jugada_31,Nada
+Acción de ataque (11),957000,13280,Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld);Jugador_9 (pi),Acción de ataque,Jugada_13,Nada
+Acción de ataque (15),1269200,8960,Jugador_7 (li);Jugador_3 (c);Jugador_1 (ld);Jugador_9 (pi),Acción de ataque,Jugada_54,Gol
+Acción de ataque (9),245800,6000,Jugador_7 (li),Acción de ataque,Jugada_78,Nada
+Acción de ataque (53),807720,10400,Jugador_7 (ld);Jugador_1 (li);Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (27),80400,12400,Jugador_1 (li);Jugador_9 (pi);Jugador_3 (c);Jugador_14 (ld);Jugador_10 (ed),Acción de ataque,Jugada_48,Gol
+Acción de ataque (20),1784320,5360,Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Gol
+Acción de ataque (29),221800,10200,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_11 (ed);Jugador_9 (pi),Acción de ataque,Jugada_41,Gol
+Acción de ataque (54),2121560,13600,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_11 (ed),Acción de ataque,Jugada_58,Nada
+Acción de ataque (17),1252800,8560,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_65,Gol
+Acción de ataque (28),170480,15000,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_15 (ei),Acción de ataque,Jugada_48,Gol
+Acción de ataque (14),1061440,12680,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_17,Pérdida
+Acción de ataque (40),1182240,6480,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (42),1531160,12160,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_1,Nada
+Acción de ataque (38),1152960,11120,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Nada
+Acción de ataque (36),937920,7880,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_13,Nada
+Acción de ataque (45),1850000,9400,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_1,Nada
+Acción de ataque (32),524480,9080,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_1,Nada
+Acción de ataque (49),1914280,4160,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (48),1797920,5600,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (26),195760,13160,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (50),2008320,7280,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (46),1863520,8400,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_17,Gol
+Acción de ataque (31),426800,14880,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_1,Gol
+Acción de ataque (30),368680,5200,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_74,Gol
+Acción de ataque (15),1161400,12360,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_31,Gol
+Acción de ataque (41),1342560,8680,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (26),21360,8240,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (25),151400,6680,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (12),1002360,18520,Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_6 (ei);Jugador_9 (pi),Acción de ataque,Jugada_48,Nada
+Acción de ataque (19),1570440,8920,Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (18),1448520,7040,Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_37,Pérdida
+Acción de ataque (20),1647560,9000,Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_26,Nada
+Acción de ataque (14),919240,15240,Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_65,Pérdida
+Acción de ataque (47),4465400,10840,Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_30,Nada
+Acción de ataque (43),1422920,7080,Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_50,Gol
+Acción de ataque (18),1396440,16920,Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_10,Pérdida
+Acción de ataque (14),1260120,6240,Jugador_1 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_35,Gol
+Acción de ataque (52),5902160,5880,Jugador_1 (li),Acción de ataque,Jugada_78,Pérdida
+Acción de ataque (26),3844760,8880,Jugador_1 (li),Acción de ataque,Jugada_78,Gol
+Acción de ataque (7),1579120,13760,Jugador_1 (ld);Jugador_10 (ed);Jugador_3 (c);Jugador_7 (li);Jugador_15 (ei);Jugador_5 (pi),Acción de ataque,Jugada_9,Gol
+Acción de ataque (62),1292720,8800,Jugador_1 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_3 (c),Acción de ataque,Jugada_66,Gol
+Acción de ataque (67),1624120,14800,Jugador_1 (ld);Jugador_3 (c);Jugador_7 (li);Jugador_5 (pi);Jugador_4 (ed),Acción de ataque,Jugada_20,Gol
+Acción de ataque (52),704160,11160,Jugador_1 (ld);Jugador_3 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_32,Gol
+Acción de ataque (11),974080,12800,Jugador_1 (c);Jugador_5 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_3,Nada
+Acción de ataque (12),988480,8000,Jugador_1 (c);Jugador_5 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_15,Nada
+Acción de ataque (13),1014480,13200,Jugador_1 (c);Jugador_5 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_46,Nada
+Acción de ataque (14),1040840,8400,Jugador_1 (c);Jugador_5 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_74,Gol
+Acción de ataque (9),765840,7080,Jugador_1 (c);Jugador_5 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (10),957960,5480,Jugador_1 (c);Jugador_5 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (16),1342240,13920,Jugador_1 (c);Jugador_13 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_20,Gol
+Acción de ataque (7),465440,8720,Jugador_1 (c);Jugador_14 (ld);Jugador_5 (pi);Jugador_7 (li);Jugador_11 (ed),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (4),272560,22000,Jugador_1 (c);Jugador_14 (ld);Jugador_5 (pi);Jugador_7 (li);Jugador_6 (ei),Acción de ataque,Jugada_65,Nada
+Acción de ataque (5),298400,10200,Jugador_1 (c);Jugador_14 (ld);Jugador_5 (pi);Jugador_7 (li);Jugador_6 (ei),Acción de ataque,Jugada_73,Gol
+Acción de ataque (8),616920,10240,Jugador_1 (c);Jugador_14 (ld);Jugador_5 (pi);Jugador_7 (li),Acción de ataque,Jugada_52,Pérdida
+Acción de ataque (3),189240,12920,Jugador_1 (c);Jugador_14 (ld);Jugador_5 (pi);Jugador_7 (li),Acción de ataque,Jugada_40,Pérdida
+Acción de ataque (6),445440,10240,Jugador_1 (c);Jugador_14 (ld);Jugador_5 (pi);Jugador_7 (li),Acción de ataque,Jugada_3,Nada
+Acción de ataque (27),312920,15200,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_10 (ed);Jugador_5 (pi),Acción de ataque,Jugada_30,Pérdida
+Acción de ataque (32),843760,15360,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_5 (pi);Jugador_6 (ei),Acción de ataque,Jugada_73,Pérdida
+Acción de ataque (31),782280,15640,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_5 (pi);Jugador_6 (ei),Acción de ataque,Jugada_73,Gol
+Acción de ataque (30),701960,15520,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_5 (pi),Acción de ataque,Jugada_3,Pérdida
+Acción de ataque (29),392920,9760,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_5 (pi),Acción de ataque,Jugada_42,Pérdida
+Acción de ataque (28),354320,20000,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_5 (pi),Acción de ataque,Jugada_22,Nada
+Acción de ataque (33),889040,8280,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_5 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (82),556560,8000,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_73,Pérdida
+Acción de ataque (67),359960,14000,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (81),528160,20000,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_21,Nada
+Acción de ataque (80),407960,12000,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_21,Gol
+Acción de ataque (11),293000,14400,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_55,Pérdida
+Acción de ataque (34),969600,11840,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_66,Pérdida
+Acción de ataque (18),713360,9200,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_3,Pérdida
+Acción de ataque (17),682160,14800,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_44,Nada
+Acción de ataque (5),151800,19600,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_69,Nada
+Acción de ataque (6),173800,5600,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_73,Gol
+Acción de ataque (4),109400,6800,Jugador_1 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (10),1481280,7200,Jugador_1 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (9),1226080,7600,Jugador_1 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_66,Gol
+Acción de ataque (8),1145560,6680,Jugador_1 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_74,Pérdida
+Acción de ataque (30),938840,16000,Jugador_1 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (7),1119200,14800,Jugador_1 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_69,Nada
+Acción de ataque (29),754680,9200,Jugador_1 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_2 (ld),Acción de ataque,Jugada_68,Gol
+Acción de ataque (52),635360,6000,Jugador_1 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (46),1727920,6440,Jugador_1 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (28),625320,7200,Jugador_1 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Gol
+Acción de ataque (5),938480,6800,Jugador_1 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Gol
+Acción de ataque (32),4217480,7960,Jugador_1 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Gol
+Acción de ataque (32),1816440,7200,Jugador_1 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Gol
+Acción de ataque (1),31000,15560,Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi);Jugador_7 (li),Acción de ataque,Jugada_13,Nada
+Acción de ataque (28),1965120,5440,Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (2),141640,16360,Jugador_1 (c);Jugador_12 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_1,Nada
+Acción de ataque (1),20200,13720,Jugador_1 (c);Jugador_12 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_17,Gol
+Acción de ataque (5),359400,8000,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_5 (pi);Jugador_10 (ed),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (8),593360,7520,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_5 (pi);Jugador_6 (ei);Jugador_10 (ed),Acción de ataque,Jugada_73,Gol
+Acción de ataque (4),277920,9600,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_5 (pi);Jugador_6 (ei),Acción de ataque,Jugada_55,Pérdida
+Acción de ataque (3),265920,9200,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_5 (pi);Jugador_6 (ei),Acción de ataque,Jugada_41,Nada
+Acción de ataque (7),585400,7920,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_5 (pi);Jugador_6 (ei),Acción de ataque,Jugada_69,Nada
+Acción de ataque (6),490880,9600,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_5 (pi),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (1),40400,14400,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_5 (pi),Acción de ataque,Jugada_13,Gol
+Acción de ataque (2),180840,21200,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_5 (pi),Acción de ataque,Jugada_13,Gol
+Acción de ataque (94),497560,6000,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (92),255360,8000,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_66,Pérdida
+Acción de ataque (95),560080,12000,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (96),1069600,19000,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_21,Nada
+Acción de ataque (97),906440,8000,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_41,Nada
+Acción de ataque (93),548920,10000,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_6,Nada
+Acción de ataque (50),1972440,7600,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_50,Gol
+Acción de ataque (83),100760,12000,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_6 (ei);Jugador_10 (ed),Acción de ataque,Jugada_34,Pérdida
+Acción de ataque (47),472760,11200,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_69,Nada
+Acción de ataque (42),62760,8400,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_20,Gol
+Acción de ataque (48),485560,7200,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_55,Gol
+Acción de ataque (15),1104480,8800,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi);Jugador_6 (ei),Acción de ataque,Jugada_66,Gol
+Acción de ataque (46),304560,8400,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_66,Pérdida
+Acción de ataque (51),622160,10400,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_26,Nada
+Acción de ataque (44),150080,17200,Jugador_1 (c);Jugador_7 (li);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_36,Gol
+Acción de ataque (35),1510720,21560,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_13 (ld),Acción de ataque,Jugada_69,Gol
+Acción de ataque (85),234360,10000,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld);Jugador_10 (ed),Acción de ataque,Jugada_66,Gol
+Acción de ataque (86),494960,18000,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld);Jugador_10 (ed),Acción de ataque,Jugada_21,Gol
+Acción de ataque (7),686760,8800,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld);Jugador_6 (ei),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (27),612960,12800,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld);Jugador_6 (ei),Acción de ataque,Jugada_24,Nada
+Acción de ataque (55),5223560,7120,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_68,Pérdida
+Acción de ataque (24),441200,11600,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_26,Nada
+Acción de ataque (20),933160,12600,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_46,Nada
+Acción de ataque (25),454080,8840,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_37,Gol
+Acción de ataque (23),320000,9600,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_40,Gol
+Acción de ataque (19),844720,9600,Jugador_1 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_60,Gol
+Acción de ataque (24),3652720,9840,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_10 (ed);Jugador_9 (pi),Acción de ataque,Jugada_18,Pérdida
+Acción de ataque (3),285640,12240,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_36,Pérdida
+Acción de ataque (2),62080,11040,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (26),1872600,9400,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_60,Pérdida
+Acción de ataque (7),739640,12400,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_46,Nada
+Acción de ataque (8),751960,7880,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_20,Nada
+Acción de ataque (1),869480,7240,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_2,Gol
+Acción de ataque (5),429240,8400,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_56,Gol
+Acción de ataque (6),571200,13200,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (10),803120,6800,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_40,Gol
+Acción de ataque (29),4050680,7160,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_7,Pérdida
+Acción de ataque (30),4180840,13640,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_22,Nada
+Acción de ataque (27),3870640,6920,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Nada
+Acción de ataque (36),2985000,16320,Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_52,Gol
+Acción de ataque (41),2006720,10680,Jugador_1 (c);Jugador_16 (li);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_20,Gol
+Acción de ataque (49),5013760,15200,Jugador_1 (c);Jugador_15 (ei);Jugador_14 (ld);Jugador_10 (ed);Jugador_9 (pi);Jugador_13 (li),Acción de ataque,Jugada_69,Gol
+Acción de ataque (50),5085840,12400,Jugador_1 (c);Jugador_15 (ei);Jugador_14 (ld);Jugador_9 (pi);Jugador_13 (li),Acción de ataque,Jugada_21,Pérdida
+Acción de ataque (49),1891680,4400,Jugador_1 (c),Acción de ataque,Jugada_78,Pérdida
+Acción de ataque (48),4944600,3600,Jugador_1 (c),Acción de ataque,Jugada_78,Gol
+Acción de ataque (4),226480,10000,Jugador_3 (li);Jugador_9 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (23),1745760,9320,Jugador_3 (li);Jugador_1 (c);Jugador_13 (ei);Jugador_5 (pi),Acción de ataque,Jugada_6,Gol
+Acción de ataque (12),978560,5200,Jugador_3 (li);Jugador_1 (c);Jugador_9 (pi);Jugador_7 (ld),Acción de ataque,Jugada_15,Pérdida
+Acción de ataque (64),1441440,10000,Jugador_3 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (63),1423280,15200,Jugador_3 (ld);Jugador_7 (li);Jugador_1 (c);Jugador_9 (pi),Acción de ataque,Jugada_44,Nada
+Acción de ataque (16),1775080,14800,Jugador_3 (c);Jugador_10 (ed);Jugador_9 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_22,Gol
+Acción de ataque (19),34760,7480,Jugador_3 (c);Jugador_5 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_61,Pérdida
+Acción de ataque (18),16920,7960,Jugador_3 (c);Jugador_5 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_40,Nada
+Acción de ataque (20),116480,7640,Jugador_3 (c);Jugador_5 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_69,Gol
+Acción de ataque (64),2981720,22000,Jugador_3 (c);Jugador_5 (pi);Jugador_2 (ld);Jugador_10 (ed);Jugador_7 (li),Acción de ataque,Jugada_69,Gol
+Acción de ataque (23),2784880,8840,Jugador_3 (c);Jugador_5 (pi);Jugador_16 (li);Jugador_2 (ld);Jugador_10 (ed),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (20),2514600,22400,Jugador_3 (c);Jugador_5 (pi);Jugador_16 (li);Jugador_2 (ld);Jugador_15 (ei),Acción de ataque,Jugada_65,Pérdida
+Acción de ataque (19),2475400,13600,Jugador_3 (c);Jugador_5 (pi);Jugador_16 (li);Jugador_2 (ld),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (22),2741640,9200,Jugador_3 (c);Jugador_5 (pi);Jugador_16 (li);Jugador_2 (ld),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (21),2673760,8240,Jugador_3 (c);Jugador_5 (pi);Jugador_16 (li);Jugador_2 (ld),Acción de ataque,Jugada_36,Gol
+Acción de ataque (18),2341440,6000,Jugador_3 (c);Jugador_5 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (35),948600,8320,Jugador_3 (c);Jugador_5 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (41),4982160,12000,Jugador_3 (c);Jugador_13 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_28,Gol
+Acción de ataque (24),1359400,9200,Jugador_3 (c);Jugador_13 (ei);Jugador_7 (li);Jugador_9 (pi);Jugador_1 (ld),Acción de ataque,Jugada_41,Nada
+Acción de ataque (23),328320,9960,Jugador_3 (c);Jugador_14 (ld);Jugador_5 (pi);Jugador_10 (ed);Jugador_1 (li),Acción de ataque,Jugada_2,Gol
+Acción de ataque (26),878520,10360,Jugador_3 (c);Jugador_14 (ld);Jugador_5 (pi);Jugador_1 (li),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (24),451200,11160,Jugador_3 (c);Jugador_14 (ld);Jugador_5 (pi);Jugador_1 (li),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (25),483600,6520,Jugador_3 (c);Jugador_14 (ld);Jugador_5 (pi);Jugador_1 (li),Acción de ataque,Jugada_50,Gol
+Acción de ataque (34),4316240,12400,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_10 (ed);Jugador_1 (li),Acción de ataque,Jugada_21,Nada
+Acción de ataque (50),1968480,15600,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_13 (ei);Jugador_1 (li),Acción de ataque,Jugada_65,Nada
+Acción de ataque (44),1571280,9520,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_7 (li);Jugador_10 (ed),Acción de ataque,Jugada_73,Pérdida
+Acción de ataque (43),1549320,15240,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_7 (li);Jugador_10 (ed),Acción de ataque,Jugada_18,Nada
+Acción de ataque (42),1340240,10000,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_7 (li);Jugador_10 (ed),Acción de ataque,Jugada_30,Gol
+Acción de ataque (41),1260280,9440,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_7 (li);Jugador_10 (ed),Acción de ataque,Jugada_30,Gol
+Acción de ataque (57),5488240,4400,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (li);Jugador_13 (ei),Acción de ataque,Jugada_65,Pérdida
+Acción de ataque (56),5470640,8400,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (li);Jugador_13 (ei),Acción de ataque,Jugada_6,Nada
+Acción de ataque (37),4572240,11600,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (li),Acción de ataque,Jugada_44,Nada
+Acción de ataque (38),4595440,9600,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (li),Acción de ataque,Jugada_46,Nada
+Acción de ataque (36),4437840,10800,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_45,Gol
+Acción de ataque (49),1977200,13960,Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_75,Nada
+Acción de ataque (69),1173440,8000,Jugador_3 (c);Jugador_14 (ld);Jugador_12 (pi);Jugador_4 (ed);Jugador_7 (li),Acción de ataque,Jugada_63,Gol
+Acción de ataque (24),2556000,16920,Jugador_3 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_10 (ed);Jugador_5 (pi),Acción de ataque,Jugada_18,Nada
+Acción de ataque (25),2588480,6560,Jugador_3 (c);Jugador_14 (ld);Jugador_7 (li);Jugador_5 (pi),Acción de ataque,Jugada_74,Pérdida
+Acción de ataque (40),4642760,7200,Jugador_3 (c);Jugador_14 (ld);Jugador_1 (li);Jugador_9 (pi),Acción de ataque,Jugada_36,Pérdida
+Acción de ataque (22),223880,21840,Jugador_3 (c);Jugador_14 (ld);Jugador_15 (ei);Jugador_5 (pi);Jugador_1 (li),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (41),4672360,11600,Jugador_3 (c);Jugador_14 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_65,Nada
+Acción de ataque (42),4688360,7600,Jugador_3 (c);Jugador_14 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_65,Gol
+Acción de ataque (19),1477240,11600,Jugador_3 (c);Jugador_9 (pi);Jugador_11 (ed);Jugador_14 (ld);Jugador_7 (li);Jugador_13 (ei),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (18),1464720,8400,Jugador_3 (c);Jugador_9 (pi);Jugador_11 (ed);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_69,Nada
+Acción de ataque (17),1356240,10000,Jugador_3 (c);Jugador_9 (pi);Jugador_11 (ed);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_20,Gol
+Acción de ataque (9),1339600,11600,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_10 (ed);Jugador_1 (li),Acción de ataque,Jugada_55,Pérdida
+Acción de ataque (8),1331360,8240,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_10 (ed);Jugador_1 (li),Acción de ataque,Jugada_6,Nada
+Acción de ataque (56),2189040,13600,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_11 (ed);Jugador_1 (li);Jugador_13 (ei),Acción de ataque,Jugada_21,Gol
+Acción de ataque (55),2140280,8000,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_11 (ed);Jugador_1 (li),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (23),2374800,8720,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li);Jugador_10 (ed),Acción de ataque,Jugada_51,Gol
+Acción de ataque (22),1950200,12800,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li);Jugador_13 (ei),Acción de ataque,Jugada_50,Pérdida
+Acción de ataque (23),2068360,7920,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li);Jugador_13 (ei),Acción de ataque,Jugada_74,Pérdida
+Acción de ataque (21),1913400,18000,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li);Jugador_13 (ei),Acción de ataque,Jugada_65,Nada
+Acción de ataque (24),2218520,6000,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li);Jugador_13 (ei),Acción de ataque,Jugada_42,Nada
+Acción de ataque (25),2224080,16200,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li);Jugador_15 (ei),Acción de ataque,Jugada_20,Gol
+Acción de ataque (21),2184920,7480,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_40,Pérdida
+Acción de ataque (20),2169480,6560,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_38,Nada
+Acción de ataque (19),2157360,7520,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_76,Nada
+Acción de ataque (41),5083800,9520,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_52,Nada
+Acción de ataque (22),2268120,13640,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_40,Gol
+Acción de ataque (40),4842760,9120,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_65,Gol
+Acción de ataque (20),1834440,19640,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_7 (li),Acción de ataque,Jugada_44,Gol
+Acción de ataque (12),1518600,7240,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_42,Pérdida
+Acción de ataque (39),4743400,15920,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (6),1128760,6400,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_26,Pérdida
+Acción de ataque (14),1630840,9360,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_61,Pérdida
+Acción de ataque (5),1088640,13600,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_16,Nada
+Acción de ataque (17),1990960,4840,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_26,Nada
+Acción de ataque (52),2020760,17200,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_60,Nada
+Acción de ataque (53),2039760,14400,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_1 (li),Acción de ataque,Jugada_60,Gol
+Acción de ataque (29),4162080,17320,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_6 (ei);Jugador_7 (li),Acción de ataque,Jugada_62,Nada
+Acción de ataque (27),3876960,17320,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_6 (ei);Jugador_1 (li),Acción de ataque,Jugada_21,Nada
+Acción de ataque (28),3897640,12600,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_6 (ei);Jugador_1 (li),Acción de ataque,Jugada_65,Gol
+Acción de ataque (7),1164840,14800,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_15 (ei);Jugador_10 (ed);Jugador_1 (li),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (10),1369640,16800,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_21,Pérdida
+Acción de ataque (11),1442880,11200,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_45,Gol
+Acción de ataque (18),2005080,4160,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld);Jugador_15 (ei);Jugador_1 (li),Acción de ataque,Jugada_27,Gol
+Acción de ataque (11),929200,6720,Jugador_3 (c);Jugador_9 (pi);Jugador_14 (ld),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (46),5516880,17200,Jugador_3 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_52,Nada
+Acción de ataque (43),5154040,11520,Jugador_3 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_24,Nada
+Acción de ataque (45),5343320,13040,Jugador_3 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_13,Gol
+Acción de ataque (48),5693120,11840,Jugador_3 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_69,Gol
+Acción de ataque (47),5558560,5840,Jugador_3 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_50,Gol
+Acción de ataque (44),5182680,5280,Jugador_3 (c);Jugador_9 (pi);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_50,Gol
+Acción de ataque (60),1206360,12000,Jugador_3 (c);Jugador_9 (pi);Jugador_7 (ld);Jugador_1 (li),Acción de ataque,Jugada_42,Nada
+Acción de ataque (30),1615960,8000,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (49),5774880,6720,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (13),878480,6760,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (43),231760,6400,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (13),1619440,5280,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (16),1331440,6320,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (38),4732960,5280,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_56,Nada
+Acción de ataque (39),1147600,7920,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (39),1168160,8240,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Nada
+Acción de ataque (51),1989280,5200,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Gol
+Acción de ataque (50),1809360,8640,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Gol
+Acción de ataque (13),2041720,10280,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Gol
+Acción de ataque (38),94360,5600,Jugador_3 (c);Jugador_9 (pi),Acción de ataque,Jugada_38,Gol
+Acción de ataque (1),90960,5920,Jugador_3 (c);Jugador_2 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_2,Gol
+Acción de ataque (6),1470440,8000,Jugador_3 (c);Jugador_2 (ld);Jugador_1 (li);Jugador_5 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (28),1548400,13000,Jugador_3 (c);Jugador_2 (ld);Jugador_1 (li);Jugador_9 (pi);Jugador_11 (ed),Acción de ataque,Jugada_18,Nada
+Acción de ataque (27),1472520,5600,Jugador_3 (c);Jugador_2 (ld);Jugador_1 (li);Jugador_9 (pi),Acción de ataque,Jugada_40,Pérdida
+Acción de ataque (33),4343960,3960,Jugador_3 (c);Jugador_2 (ld),Acción de ataque,Jugada_38,Gol
+Acción de ataque (59),1181200,5800,Jugador_3 (c);Jugador_7 (li);Jugador_10 (ed);Jugador_9 (pi),Acción de ataque,Jugada_26,Nada
+Acción de ataque (65),1501880,12400,Jugador_3 (c);Jugador_7 (li);Jugador_5 (pi);Jugador_13 (ei);Jugador_1 (ld),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (68),1683560,18760,Jugador_3 (c);Jugador_7 (li);Jugador_5 (pi);Jugador_1 (ld),Acción de ataque,Jugada_22,Pérdida
+Acción de ataque (22),2690680,7320,Jugador_3 (c);Jugador_7 (li);Jugador_13 (ld);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_72,Pérdida
+Acción de ataque (45),268120,15200,Jugador_3 (c);Jugador_7 (li);Jugador_13 (ei);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_42,Nada
+Acción de ataque (7),593480,9720,Jugador_3 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_24,Nada
+Acción de ataque (46),286960,6400,Jugador_3 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_74,Gol
+Acción de ataque (19),1244400,10680,Jugador_3 (c);Jugador_7 (li);Jugador_9 (pi);Jugador_1 (ld),Acción de ataque,Jugada_22,Nada
+Acción de ataque (2),248360,9880,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_30,Pérdida
+Acción de ataque (47),448800,9440,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_18,Pérdida
+Acción de ataque (8),608480,8400,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_6,Gol
+Acción de ataque (40),167760,10800,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_11 (ed),Acción de ataque,Jugada_73,Pérdida
+Acción de ataque (44),254360,12400,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_11 (ed),Acción de ataque,Jugada_50,Nada
+Acción de ataque (39),152960,12800,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_11 (ed),Acción de ataque,Jugada_69,Nada
+Acción de ataque (41),202040,12800,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_11 (ed),Acción de ataque,Jugada_18,Nada
+Acción de ataque (36),36400,12400,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_52,Pérdida
+Acción de ataque (37),77960,14400,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_40,Nada
+Acción de ataque (5),422600,8080,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_52,Nada
+Acción de ataque (49),507040,22800,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Nada
+Acción de ataque (50),530600,19080,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Nada
+Acción de ataque (48),493680,10000,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_22,Nada
+Acción de ataque (3),287640,14480,Jugador_3 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_22,Gol
+Acción de ataque (25),304840,13280,Jugador_3 (c);Jugador_7 (li);Jugador_1 (ld);Jugador_10 (ed);Jugador_5 (pi),Acción de ataque,Jugada_33,Pérdida
+Acción de ataque (71),1892880,4680,Jugador_3 (c);Jugador_7 (li);Jugador_1 (ld);Jugador_5 (pi),Acción de ataque,Jugada_26,Pérdida
+Acción de ataque (66),1601440,9640,Jugador_3 (c);Jugador_7 (li);Jugador_1 (ld);Jugador_5 (pi),Acción de ataque,Jugada_46,Nada
+Acción de ataque (21),2611640,22440,Jugador_3 (c);Jugador_7 (ld);Jugador_13 (ld);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_9,Pérdida
+Acción de ataque (22),1726200,16000,Jugador_3 (c);Jugador_1 (li);Jugador_5 (pi);Jugador_2 (ld),Acción de ataque,Jugada_22,Nada
+Acción de ataque (27),467600,11800,Jugador_3 (c);Jugador_1 (li);Jugador_5 (pi);Jugador_2 (ld),Acción de ataque,Jugada_70,Nada
+Acción de ataque (31),795400,4920,Jugador_3 (c);Jugador_1 (li);Jugador_5 (pi);Jugador_2 (ld),Acción de ataque,Jugada_13,Nada
+Acción de ataque (20),2511960,8520,Jugador_3 (c);Jugador_1 (li);Jugador_13 (ld);Jugador_4 (ed);Jugador_9 (pi),Acción de ataque,Jugada_66,Gol
+Acción de ataque (18),2394320,19160,Jugador_3 (c);Jugador_1 (li);Jugador_13 (ld);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_30,Nada
+Acción de ataque (15),2144880,14360,Jugador_3 (c);Jugador_1 (li);Jugador_13 (ld);Jugador_9 (pi),Acción de ataque,Jugada_10,Pérdida
+Acción de ataque (19),2436480,13240,Jugador_3 (c);Jugador_1 (li);Jugador_13 (ld);Jugador_9 (pi),Acción de ataque,Jugada_66,Pérdida
+Acción de ataque (17),2339200,12400,Jugador_3 (c);Jugador_1 (li);Jugador_13 (ld);Jugador_9 (pi),Acción de ataque,Jugada_46,Gol
+Acción de ataque (23),2878240,15720,Jugador_3 (c);Jugador_1 (li);Jugador_13 (ld);Jugador_15 (ei);Jugador_9 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (21),1665520,6200,Jugador_3 (c);Jugador_1 (li);Jugador_13 (ei),Acción de ataque,Jugada_20,Gol
+Acción de ataque (10),914840,9760,Jugador_3 (c);Jugador_1 (li);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Nada
+Acción de ataque (46),4307240,9960,Jugador_3 (c);Jugador_1 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_60,Pérdida
+Acción de ataque (17),1147880,6800,Jugador_3 (c);Jugador_1 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_74,Nada
+Acción de ataque (34),4435320,11040,Jugador_3 (c);Jugador_1 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_2,Nada
+Acción de ataque (49),4496280,4800,Jugador_3 (c);Jugador_1 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_37,Gol
+Acción de ataque (45),4197480,9760,Jugador_3 (c);Jugador_1 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_77,Gol
+Acción de ataque (42),3507800,7680,Jugador_3 (c);Jugador_1 (li);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_50,Gol
+Acción de ataque (61),1220360,6920,Jugador_3 (c);Jugador_1 (li);Jugador_9 (pi);Jugador_7 (ld),Acción de ataque,Jugada_66,Pérdida
+Acción de ataque (33),823600,6400,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_10 (ed);Jugador_5 (pi),Acción de ataque,Jugada_15,Gol
+Acción de ataque (24),1951520,16600,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_5 (pi);Jugador_4 (ed),Acción de ataque,Jugada_61,Pérdida
+Acción de ataque (36),966600,6400,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_5 (pi);Jugador_13 (ei),Acción de ataque,Jugada_6,Pérdida
+Acción de ataque (28),485400,10160,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_5 (pi);Jugador_13 (ei),Acción de ataque,Jugada_20,Gol
+Acción de ataque (29),541320,11680,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (11),955840,16000,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_44,Pérdida
+Acción de ataque (37),1042560,5200,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_70,Pérdida
+Acción de ataque (32),808160,10000,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_13,Nada
+Acción de ataque (38),1079680,14800,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_20,Gol
+Acción de ataque (26),376120,8080,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_70,Gol
+Acción de ataque (23),65080,15240,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_31,Gol
+Acción de ataque (12),1052600,11880,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_4 (ed);Jugador_9 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (30),579760,12560,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_13 (ei);Jugador_5 (pi),Acción de ataque,Jugada_6,Gol
+Acción de ataque (16),1130280,17200,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_13 (ei);Jugador_9 (pi),Acción de ataque,Jugada_50,Nada
+Acción de ataque (43),1424160,18560,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_55,Pérdida
+Acción de ataque (44),1470680,9080,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_55,Pérdida
+Acción de ataque (10),1869360,12400,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_30,Pérdida
+Acción de ataque (26),3780320,7080,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_57,Gol
+Acción de ataque (48),1690000,11440,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_66,Gol
+Acción de ataque (50),4568040,10200,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_65,Gol
+Acción de ataque (53),2155280,10160,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_15 (ei),Acción de ataque,Jugada_22,Pérdida
+Acción de ataque (47),1672600,11240,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_15 (ei),Acción de ataque,Jugada_50,Nada
+Acción de ataque (15),1456600,8000,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_15 (ei),Acción de ataque,Jugada_69,Gol
+Acción de ataque (21),1854520,9840,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (42),1356200,6440,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_13,Pérdida
+Acción de ataque (11),1951280,12000,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_31,Pérdida
+Acción de ataque (45),1515800,6200,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (22),2004480,13760,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Nada
+Acción de ataque (19),1774600,4560,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_3,Nada
+Acción de ataque (12),2030160,11120,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_2,Nada
+Acción de ataque (49),1794320,9000,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_58,Nada
+Acción de ataque (38),4743240,5720,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_26,Nada
+Acción de ataque (51),573960,7200,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (13),1144920,7280,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (18),1156200,4800,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_74,Gol
+Acción de ataque (16),1566280,5960,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_15,Gol
+Acción de ataque (15),999440,16000,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_13,Gol
+Acción de ataque (51),4684640,6840,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (46),1582920,8080,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_58,Gol
+Acción de ataque (43),4014520,8480,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_24,Gol
+Acción de ataque (51),1914720,9400,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_25,Gol
+Acción de ataque (52),2068080,7840,Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (54),873720,6280,Jugador_3 (c);Jugador_1 (li);Jugador_7 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Pérdida
+Acción de ataque (44),4081920,12400,Jugador_3 (c);Jugador_1 (li);Jugador_15 (ei);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_21,Pérdida
+Acción de ataque (15),1671200,4760,Jugador_3 (c);Jugador_1 (li),Acción de ataque,Jugada_78,Gol
+Acción de ataque (69),1749680,13160,Jugador_3 (c);Jugador_1 (ld);Jugador_5 (pi);Jugador_7 (li),Acción de ataque,Jugada_13,Gol
+Acción de ataque (24),237240,19880,Jugador_3 (c);Jugador_1 (ld);Jugador_7 (li);Jugador_5 (pi);Jugador_13 (ei),Acción de ataque,Jugada_23,Gol
+Acción de ataque (8),1659600,17880,Jugador_3 (c);Jugador_1 (ld);Jugador_7 (li);Jugador_5 (pi),Acción de ataque,Jugada_13,Pérdida
+Acción de ataque (25),1372600,11200,Jugador_3 (c);Jugador_1 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_21,Nada
+Acción de ataque (35),1994920,9200,Jugador_3 (c);Jugador_1 (ld);Jugador_7 (li);Jugador_9 (pi);Jugador_13 (ei),Acción de ataque,Jugada_65,Gol
+Acción de ataque (57),1107000,6800,Jugador_3 (c);Jugador_1 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_26,Pérdida
+Acción de ataque (56),1073360,13600,Jugador_3 (c);Jugador_1 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_13,Pérdida
+Acción de ataque (20),1255680,7200,Jugador_3 (c);Jugador_1 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_29,Pérdida
+Acción de ataque (55),1022080,12000,Jugador_3 (c);Jugador_1 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_22,Pérdida
+Acción de ataque (23),1350520,8800,Jugador_3 (c);Jugador_1 (ld);Jugador_7 (li);Jugador_9 (pi),Acción de ataque,Jugada_3,Nada
+Acción de ataque (10),771560,21600,Jugador_3 (c);Jugador_16 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_22,Nada
+Acción de ataque (20),1780600,4960,Jugador_3 (c);Jugador_16 (li),Acción de ataque,Jugada_78,Gol
+Acción de ataque (36),4639960,10320,Jugador_3 (c);Jugador_15 (ei);Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (li),Acción de ataque,Jugada_48,Nada
+Acción de ataque (37),4657600,13120,Jugador_3 (c);Jugador_15 (ei);Jugador_14 (ld);Jugador_9 (pi);Jugador_1 (li),Acción de ataque,Jugada_73,Gol
+Acción de ataque (39),4604240,5600,Jugador_3 (c),Acción de ataque,Jugada_78,Pérdida
+Acción de ataque (43),1551080,5080,Jugador_3 (c),Acción de ataque,Jugada_75,Pérdida
+Acción de ataque (42),224520,5200,Jugador_3 (c),Acción de ataque,Jugada_78,Nada
+Acción de ataque (21),211960,6040,Jugador_3 (c),Acción de ataque,Jugada_78,Nada
+Acción de ataque (42),5099080,6400,Jugador_3 (c),Acción de ataque,Jugada_78,Nada
+Acción de ataque (9),500680,6800,Jugador_3 (c),Acción de ataque,Jugada_78,Gol
+Acción de ataque (70),1810400,10400,Jugador_3 (c),Acción de ataque,Jugada_78,Gol
+Acción de ataque (21),1642280,15360,Jugador_6 (ei);Jugador_7 (li);Jugador_2 (ld);Jugador_13 (c);Jugador_5 (pi),Acción de ataque,Jugada_22,Nada
+Acción de ataque (4),330480,11880,Jugador_6 (ei);Jugador_7 (li);Jugador_1 (c);Jugador_5 (pi);Jugador_2 (ld),Acción de ataque,Jugada_55,Gol
+Acción de ataque (3),1109680,8880,Jugador_6 (ei);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_55,Pérdida
+Acción de ataque (13),1259200,19240,Jugador_6 (ei);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_5 (pi),Acción de ataque,Jugada_19,Nada
+Acción de ataque (31),4200040,8800,Jugador_6 (ei);Jugador_7 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_41,Nada
+Acción de ataque (31),2301640,6960,Jugador_6 (ei);Jugador_7 (li);Jugador_1 (c);Jugador_3 (ld);Jugador_10 (ed),Acción de ataque,Jugada_65,Gol
+Acción de ataque (32),2338600,9440,Jugador_6 (ei);Jugador_7 (li);Jugador_1 (c);Jugador_3 (ld);Jugador_5 (pi),Acción de ataque,Jugada_55,Gol
+Acción de ataque (13),1026840,10640,Jugador_6 (ei);Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (16),1244440,6840,Jugador_6 (ei);Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_27,Nada
+Acción de ataque (28),3878000,6880,Jugador_6 (ei);Jugador_1 (c);Jugador_7 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_59,Gol
+Acción de ataque (5),480800,14160,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld);Jugador_10 (ed),Acción de ataque,Jugada_30,Gol
+Acción de ataque (8),808640,15080,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld),Acción de ataque,Jugada_18,Pérdida
+Acción de ataque (10),1065520,10760,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld),Acción de ataque,Jugada_44,Pérdida
+Acción de ataque (6),543320,16320,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (4),433960,13800,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld),Acción de ataque,Jugada_22,Pérdida
+Acción de ataque (11),1340480,8600,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld),Acción de ataque,Jugada_26,Pérdida
+Acción de ataque (9),895240,10200,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld),Acción de ataque,Jugada_2,Gol
+Acción de ataque (1),125400,9760,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld),Acción de ataque,Jugada_22,Gol
+Acción de ataque (7),614440,11680,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld),Acción de ataque,Jugada_58,Gol
+Acción de ataque (12),1381800,10400,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_14 (ld),Acción de ataque,Jugada_13,Gol
+Acción de ataque (3),364640,20360,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_1 (ld),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (2),303880,17800,Jugador_16 (li);Jugador_5 (pi);Jugador_13 (c);Jugador_1 (ld),Acción de ataque,Jugada_23,Gol
+Acción de ataque (11),1166400,10240,Jugador_16 (li);Jugador_13 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_22,Pérdida
+Acción de ataque (11),1165680,9280,Jugador_16 (li);Jugador_13 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_36,Pérdida
+Acción de ataque (33),1229080,13200,Jugador_16 (li);Jugador_13 (c);Jugador_9 (pi);Jugador_14 (ld),Acción de ataque,Jugada_17,Gol
+Acción de ataque (32),1191040,7200,Jugador_16 (li);Jugador_13 (c);Jugador_9 (pi);Jugador_14 (ld),Acción de ataque,Jugada_39,Gol
+Acción de ataque (13),1231080,10560,Jugador_16 (li);Jugador_13 (c);Jugador_9 (pi);Jugador_2 (ld),Acción de ataque,Jugada_45,Pérdida
+Acción de ataque (12),1215880,8360,Jugador_16 (li);Jugador_13 (c);Jugador_9 (pi),Acción de ataque,Jugada_50,Nada
+Acción de ataque (10),1141520,7320,Jugador_16 (li);Jugador_13 (c),Acción de ataque,Jugada_26,Nada
+Acción de ataque (43),2091840,7880,Jugador_16 (li);Jugador_9 (pi);Jugador_4 (ed);Jugador_1 (c),Acción de ataque,Jugada_20,Nada
+Acción de ataque (44),2102040,5680,Jugador_16 (li);Jugador_9 (pi);Jugador_1 (c),Acción de ataque,Jugada_38,Gol
+Acción de ataque (42),2061680,5040,Jugador_16 (li);Jugador_9 (pi),Acción de ataque,Jugada_38,Pérdida
+Acción de ataque (40),1941600,14200,Jugador_16 (li);Jugador_1 (c);Jugador_13 (ld);Jugador_9 (pi),Acción de ataque,Jugada_22,Pérdida
+Acción de ataque (38),1869600,8080,Jugador_16 (li);Jugador_1 (c);Jugador_13 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Nada
+Acción de ataque (39),1882320,6840,Jugador_16 (li);Jugador_1 (c);Jugador_13 (ld);Jugador_9 (pi),Acción de ataque,Jugada_68,Gol
+Acción de ataque (1),63200,8880,Jugador_16 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_5 (pi),Acción de ataque,Jugada_2,Pérdida
+Acción de ataque (2),123680,9880,Jugador_16 (li);Jugador_1 (c);Jugador_14 (ld);Jugador_5 (pi),Acción de ataque,Jugada_13,Nada
+Acción de ataque (6),284080,14840,Jugador_16 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_15 (ei),Acción de ataque,Jugada_69,Nada
+Acción de ataque (7),297720,5760,Jugador_16 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_15 (ei),Acción de ataque,Jugada_20,Gol
+Acción de ataque (8),408000,14400,Jugador_16 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (21),316160,12680,Jugador_16 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_24,Pérdida
+Acción de ataque (70),570520,14000,Jugador_16 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi);Jugador_15 (ei),Acción de ataque,Jugada_65,Nada
+Acción de ataque (27),850560,13320,Jugador_16 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_36,Pérdida
+Acción de ataque (26),724120,5320,Jugador_16 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_42,Pérdida
+Acción de ataque (22),442680,10000,Jugador_16 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_40,Pérdida
+Acción de ataque (25),715000,3000,Jugador_16 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_42,Nada
+Acción de ataque (24),612040,9280,Jugador_16 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_42,Gol
+Acción de ataque (22),1963520,12040,Jugador_16 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_4 (ed),Acción de ataque,Jugada_18,Pérdida
+Acción de ataque (12),862800,14400,Jugador_16 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi);Jugador_15 (ei),Acción de ataque,Jugada_69,Nada
+Acción de ataque (23),2134920,7720,Jugador_16 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Pérdida
+Acción de ataque (1),64840,11600,Jugador_16 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_44,Pérdida
+Acción de ataque (5),239280,10400,Jugador_16 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Nada
+Acción de ataque (19),1761600,10760,Jugador_16 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_22,Nada
+Acción de ataque (3),202000,14000,Jugador_16 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_46,Nada
+Acción de ataque (2),115320,11600,Jugador_16 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_24,Gol
+Acción de ataque (21),1848640,6960,Jugador_16 (li);Jugador_3 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Gol
+Acción de ataque (55),2164560,5240,Jugador_16 (li),Acción de ataque,Jugada_78,Gol
+Acción de ataque (19),1921640,13080,Jugador_15 (ei);Jugador_13 (c);Jugador_9 (pi);Jugador_16 (li);Jugador_2 (ld),Acción de ataque,Jugada_22,Gol
+Acción de ataque (18),1843760,6400,Jugador_15 (ei);Jugador_13 (c);Jugador_9 (pi);Jugador_16 (li);Jugador_2 (ld),Acción de ataque,Jugada_11,Gol
+Acción de ataque (91),149240,10000,Jugador_15 (ei);Jugador_9 (pi);Jugador_3 (c);Jugador_7 (li);Jugador_14 (ld),Acción de ataque,Jugada_44,Nada
+Acción de ataque (17),1781360,8360,Jugador_15 (ei);Jugador_9 (pi);Jugador_16 (li);Jugador_13 (c);Jugador_2 (ld),Acción de ataque,Jugada_42,Pérdida
+Acción de ataque (78),6053000,7000,Jugador_15 (ei);Jugador_2 (ld);Jugador_9 (pi);Jugador_7 (li);Jugador_3 (c),Acción de ataque,Jugada_4,Gol
+Acción de ataque (44),1762760,11400,Jugador_15 (ei);Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_11 (ed);Jugador_9 (pi),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (47),1897760,19720,Jugador_15 (ei);Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_20,Nada
+Acción de ataque (37),956560,7840,Jugador_15 (ei);Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_55,Gol
+Acción de ataque (48),1921160,8920,Jugador_15 (ei);Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_75,Gol
+Acción de ataque (35),847880,14600,Jugador_15 (ei);Jugador_1 (li);Jugador_3 (c);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_22,Gol
+Acción de ataque (35),4454400,10200,Jugador_15 (ei);Jugador_3 (li);Jugador_1 (c);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_6,Gol
+Acción de ataque (16),2188760,18120,Jugador_15 (ei);Jugador_3 (c);Jugador_1 (li);Jugador_13 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (14),2087080,9480,Jugador_15 (ei);Jugador_3 (c);Jugador_1 (li);Jugador_13 (ld);Jugador_9 (pi),Acción de ataque,Jugada_65,Gol
+Acción de ataque (34),736920,14920,Jugador_15 (ei);Jugador_3 (c);Jugador_1 (li);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_19,Gol
+Acción de ataque (33),561160,6200,Jugador_15 (ei);Jugador_3 (c);Jugador_1 (li);Jugador_14 (ld);Jugador_9 (pi),Acción de ataque,Jugada_50,Gol
+Acción de ataque (17),1634720,9040,Jugador_15 (ei);Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi);Jugador_10 (ed),Acción de ataque,Jugada_32,Nada
+Acción de ataque (40),4832880,11680,Jugador_15 (ei);Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_69,Pérdida
+Acción de ataque (18),1656040,9960,Jugador_15 (ei);Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_29,Pérdida
+Acción de ataque (39),4756280,6920,Jugador_15 (ei);Jugador_3 (c);Jugador_1 (li);Jugador_2 (ld);Jugador_9 (pi),Acción de ataque,Jugada_41,Pérdida
+Acción de ataque (68),1150440,12000,Jugador_15 (ei);Jugador_16 (li);Jugador_13 (c);Jugador_9 (pi);Jugador_14 (ld),Acción de ataque,Jugada_17,Gol
